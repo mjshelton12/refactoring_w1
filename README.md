@@ -15,4 +15,4 @@ Added alt attributes to all images
 
 ## Author Links
 
-GitHub(/mjshelton12)
+[GitHub](https://github.com/mjshelton12)
