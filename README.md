@@ -2,8 +2,8 @@
 
 ## Technologies Used
 
-HTML - Used to build the site
-CSS - Used to style the HTML
+* HTML - Used to build the site
+* CSS - Used to style the HTML
 
 ## Summary
 
