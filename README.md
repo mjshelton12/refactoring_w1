@@ -11,7 +11,7 @@
 
 ## Overview of Site
 
-[Horiseon Site](https://github.com/mjshelton12/refactoring_w1/blob/main/assets/images/1.%20Horiseon.jpg)
+![Horiseon Site](https://github.com/mjshelton12/refactoring_w1/blob/main/assets/images/1.%20Horiseon.jpg)
 
 ## Summary
 
