@@ -13,9 +13,6 @@
 
 ![Horiseon Site](https://github.com/mjshelton12/refactoring_w1/blob/main/assets/images/1.%20Horiseon.jpg)
 
-![download](https://user-images.githubusercontent.com/106135769/231607326-2a396900-d285-4ef2-86f5-a16d6dbe7036.jpg)
-
-
 ## Summary
 
 * Added or deleted spaces between lines of code for easier redability
